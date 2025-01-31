@@ -1,2 +1,5 @@
-Set up Ollama locally and deepseek on the terminal
-Run python3 app.py
+Simple UI for those wanting to run Deepseek locally without having to use the terminal to type
+
+
+1. Set up Ollama and deepseek locally
+2. Run python3 app.py
