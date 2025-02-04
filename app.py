@@ -3,6 +3,7 @@ import subprocess
 
 
 # Function to send the user input to the model and get a response
+
 def send_prompt(event=None):
     user_input = entry.get()
     if user_input.lower() == "exit":
